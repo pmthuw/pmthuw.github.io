@@ -4,4 +4,4 @@
 ### Summary
 
 My resume I made using plain HTML5 & CSS.
-https://phthu.github.io/
+https://phthuw.github.io/
